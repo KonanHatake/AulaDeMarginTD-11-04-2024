@@ -1,0 +1,14 @@
+section
+{
+    border: 10px solid red;
+    width: 210px;
+    margin: auto;
+}
+
+article
+{
+    border: 10px solid blue;
+    width: 221px;
+    margin: auto;
+}
+
